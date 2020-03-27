@@ -1,6 +1,15 @@
 # covid-19-time-series
 Daily updated COVID-19 global time-series in csv and json format
 
+## Reference
+All csv data are mirrored from <a href="https://github.com/CSSEGISandData/COVID-19">Johns Hopkins University repository</a>.
+
+All json data are generated from csv.
+
+These data are used for Max Pierini <a href="https://www.maxpierini.it/ncov/covid-19.php">COVID-19 plots and forecasts website</a>.
+
+***
+
 ## Structure 
 
 - json
@@ -33,9 +42,9 @@ Daily updated COVID-19 global time-series in csv and json format
     {
       "Country Name":
       {
-        "Confirmed": {"YYYY-MM-DD": number, ...},
-        "Deaths": {"YYYY-MM-DD": number, ...},
-        "Recovered": {"YYYY-MM-DD": number, ...}
+        "Confirmed": {"YYYY-MM-DD": int, ...},
+        "Deaths": {"YYYY-MM-DD": int, ...},
+        "Recovered": {"YYYY-MM-DD": int, ...}
       },
       ...
     }
@@ -45,13 +54,19 @@ Daily updated COVID-19 global time-series in csv and json format
     {
       "Area Name":
       {
-        "Confirmed": {"YYYY-MM-DD": number, ...},
-        "Deaths": {"YYYY-MM-DD": number, ...},
-        "Recovered": {"YYYY-MM-DD": number, ...}
+        "Confirmed": {"YYYY-MM-DD": int, ...},
+        "Deaths": {"YYYY-MM-DD": int, ...},
+        "Recovered": {"YYYY-MM-DD": int, ...}
       },
       ...
     }
     ```
+- csv
+  - all csv are:
+    | Province/State | Country/Region | Lat | Lon | M/D/YY |
+    | --- | --- | --- | --- | --- |
+    | `string` | `string` | `float` | `float` | `int` |
+
 ---
 \* EUROPE is calculated as: all points within the following area (`[lon, lat]`):
 ```json
