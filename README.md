@@ -13,7 +13,7 @@ These data are used for Max Pierini <a href="https://www.maxpierini.it/ncov/covi
 ## Structure 
 
 - json
-  - WORLD
+  - WORLD, WORLD EXCEPT CHINA, ITALY, EUROPE*, AFRICA*, NORTH_AMERICA*, SOUTH_AMERICA*, ASIA*, OCEANIA*
     ```python
     {
       "Confirmed": {"YYYY-MM-DD": int, ...},
@@ -28,23 +28,6 @@ These data are used for Max Pierini <a href="https://www.maxpierini.it/ncov/covi
       "Deaths": {"YYYY-MM-DD": int, ...},
       "Recovered": {"YYYY-MM-DD": int, ...}
     }
-    ```
-  - EUROPE (geographic area)*
-    ```python
-    {
-      "Confirmed": {"YYYY-MM-DD": int, ...},
-      "Deaths": {"YYYY-MM-DD": int, ...},
-      "Recovered": {"YYYY-MM-DD": int, ...}
-    }
-    ```
-  - AFRICA (continent)*
-    ```python
-    {
-      "Confirmed": {"YYYY-MM-DD": int, ...},
-      "Deaths": {"YYYY-MM-DD": int, ...},
-      "Recovered": {"YYYY-MM-DD": int, ...}
-    }
-    ```
   - COUNTRIES
     ```python
     {
