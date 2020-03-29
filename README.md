@@ -37,7 +37,7 @@ These data are used for Max Pierini <a href="https://www.maxpierini.it/ncov/covi
       "Recovered": {"YYYY-MM-DD": int, ...}
     }
     ```
-   - AFRICA (continent)*
+  - AFRICA (continent)*
     ```python
     {
       "Confirmed": {"YYYY-MM-DD": int, ...},
