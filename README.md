@@ -21,13 +21,6 @@ These data are used for Max Pierini <a href="https://www.maxpierini.it/ncov/covi
       "Recovered": {"YYYY-MM-DD": int, ...}
     }
     ```
-  - WORLD EXCEPT CHINA
-    ```python
-    {
-      "Confirmed": {"YYYY-MM-DD": int, ...},
-      "Deaths": {"YYYY-MM-DD": int, ...},
-      "Recovered": {"YYYY-MM-DD": int, ...}
-    }
   - COUNTRIES
     ```python
     {
