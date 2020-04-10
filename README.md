@@ -2,18 +2,18 @@
 Daily updated COVID-19 global time-series in csv and json format
 
 ## Reference
-All csv data are mirrored from <a href="https://github.com/CSSEGISandData/COVID-19">Johns Hopkins University repository</a>.
+csv data are mirrored from <a href="https://github.com/CSSEGISandData/COVID-19">Johns Hopkins University repository</a> and <a href="https://github.com/AuraVisionLabs/covid19-lockdown-tracker">AuraVisionLabs</a>.
 
 All json data are generated from csv.
 
-These data are used for Max Pierini <a href="https://www.maxpierini.it/ncov/covid-19.php">COVID-19 plots and forecasts website</a>.
+These data are used for Max Pierini <a href="https://www.maxpierini.it/ncov/">COVID-19 maps, plots and forecasts website</a>.
 
 ***
 
 ## Structure 
 
 - json
-  - WORLD, WORLD EXCEPT CHINA, ITALY, EUROPE*, AFRICA*, NORTH_AMERICA*, SOUTH_AMERICA*, ASIA*, OCEANIA*
+  - WORLD, WORLD_EXCEPT_CHINA, ITALY, EUROPE*, AFRICA*, NORTH_AMERICA*, SOUTH_AMERICA*, ASIA*, OCEANIA*
     ```python
     {
       "Confirmed": {"YYYY-MM-DD": int, ...},
@@ -46,10 +46,11 @@ These data are used for Max Pierini <a href="https://www.maxpierini.it/ncov/covi
     }
     ```
 - csv
-  - all csv are:
+  - all COVID-* csv are:
     | Province/State | Country/Region | Lat | Lon | M/D/YY |
     | --- | --- | --- | --- | --- |
     | `string` | `string` | `float` | `float` | `int` |
+  - _lockdowns.csv_ if the same of <a href="https://github.com/AuraVisionLabs/covid19-lockdown-tracker">AuraVisionLabs</a> added `lat` and `lon` coordinates (`float`)
 
 ---
 \* see _zones.geojson_ for areas coordinates
