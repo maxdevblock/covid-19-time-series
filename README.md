@@ -2,7 +2,7 @@
 Daily updated COVID-19 global time-series in csv and json format
 
 ## Reference
-csv data are mirrored from <a href="https://github.com/CSSEGISandData/COVID-19">Johns Hopkins University repository</a> and <a href="https://github.com/AuraVisionLabs/covid19-lockdown-tracker">AuraVisionLabs</a>.
+COVID-\*.csv data are mirrored from <a href="https://github.com/CSSEGISandData/COVID-19">Johns Hopkins University repository</a>.
 
 All json data are generated from csv.
 
@@ -50,7 +50,12 @@ These data are used for Max Pierini <a href="https://www.maxpierini.it/ncov/">CO
     | Province/State | Country/Region | Lat | Lon | M/D/YY |
     | --- | --- | --- | --- | --- |
     | `string` | `string` | `float` | `float` | `int` |
-  - _lockdowns.csv_ if the same of <a href="https://github.com/AuraVisionLabs/covid19-lockdown-tracker">AuraVisionLabs</a> added `lat` and `lon` coordinates (`float`)
+  - _lockdowns.csv_ is
+    | Country | Place | Start date | End date | Level | lat | lon |
+    | --- | --- | --- | --- | --- | --- | --- |
+    | `string` | `string` | `YYYY-MM-DD` | `YYYY-MM-DD` | `string` | `float` | `float` |
+    
+    parsed from [Wikipedia](https://en.wikipedia.org/wiki/National_responses_to_the_2019%E2%80%9320_coronavirus_pandemic)
 
 ---
 \* see _zones.geojson_ for areas coordinates
