@@ -1,167 +1,124 @@
-Country,Place,Start date,End date,Level,url,update,Confirmed,lat,lon
-China,Wuhan,2020-01-23,2020-04-08,City,https://www.backchina.com/news/2020/03/15/677206.html,2000-11-12 13:35:00,True,30.592849,114.305539
-Panama,,2020-03-25,2020-04-13,National,https://www.prensa.com/impresa/panorama/ejecutivo-decreta-cuarentena-total-de-manera-indefinida/,2000-11-12 13:35:00,False,8.537981,-80.782127
-China,Qianjiang,2020-01-24,2020-03-13,City,https://news.sina.cn/2020-03-13/detail-iimxxstf8849211.d.html?vt=4&pos=8&cid=56261,2000-11-12 13:35:00,True,30.402167,112.899762
-Jordan,,2020-03-21,2020-04-12,National,https://www.cnn.com/2020/03/25/middleeast/jordan-lockdown-coronavirus-intl/index.html,2000-11-12 13:35:00,False,30.585164,36.238414
-China,Xiangyang,2020-01-28,2020-03-25,City,https://www.thepaper.cn/newsDetail_forward_5671283,2020-02-04 00:00:00,True,32.009016,112.122426
-Philippines,Luzon,2020-03-15,2020-04-14,Island group,https://www.philstar.com/headlines/2020/03/12/2000209/travel-and-manila-suspended-march-15-code-red-sublevel-2-raised-over-covid-19?fbclid=IwAR3AAILu_dcJdaSsjyrRDkaPvgc-djCiwGBgTc_13DWyg8E05B3vsxz02PE,2020-03-12 00:00:00,False,16.5662318,121.2626366
-China,Huangshi,2020-01-24,2020-03-13,City,https://news.sina.com.cn/c/2020-03-13/doc-iimxyqwa0259279.shtml,2020-03-14 00:00:00,True,30.20002999999999,115.038835
-Malaysia,,2020-03-18,2020-04-14,National,https://www.nst.com.my/news/nation/2020/03/575177/covid-19-movement-control-order-imposed-only-essential-sectors-operating,2020-03-16 00:00:00,False,4.210484,101.975766
-China,Jingzhou,2020-01-24,2020-03-17,City,https://www.yicai.com/news/100550418.html,2020-03-16 00:00:00,True,30.335237,112.239631
-Fiji,Lautoka,2020-03-20,2020-04-10,City,https://www.channelnewsasia.com/news/world/fiji-city-sealed-off-as-first-covid-19-case-confirmed-12555438,2020-03-19 00:00:00,False,-17.6169957,177.4504888
-Spain,,2020-03-14,2020-04-25,National,https://www.elmundo.es/espana/2020/03/13/5e6b844e21efa0dd258b45a5.html,2020-03-20 00:00:00,False,40.46366700000001,-3.74922
-Belgium,,2020-03-18,2020-04-18,National,https://www.theguardian.com/world/gallery/2020/mar/18/belgium-enters-lockdown-over-coronavirus-crisis-in-pictures,2020-03-20 00:00:00,False,50.503887,4.469936
-Austria,,2020-03-16,2020-04-13,National,https://orf.at/stories/3158055/,2020-03-20 00:00:00,False,47.516231,14.550072
-Morocco,,2020-03-19,2020-04-20,National,https://www.h24info.ma/maroc/urgent-le-maroc-declare-letat-durgence-sanitaire/,2020-03-20 00:00:00,False,31.791702,-7.092619999999999
-Czech Republic,,2020-03-16,2020-04-12,National,https://orf.at/stories/3158055/,2020-03-20 00:00:00,False,49.81749199999999,15.472962
-Germany,"Freiburg, BW",2020-03-21,2020-04-03,City,https://www.welt.de/politik/deutschland/article206578991/Ausgangsperre-wegen-Corona-in-Deutschland-Merkel-warnt-Koennen-jederzeit-reagieren.html,2020-03-20 00:00:00,False,47.9990077,7.842104299999999
-United States,"Clark County, NV",2020-03-20,2020-04-20,County,https://www.dailymail.co.uk/news/article-8129667/Las-Vegas-goes-dark-Iconic-strip-deserted-Sin-City-joins-list-barren-towns.html,2020-03-20 00:00:00,False,36.0795613,-115.094045
-Argentina,,2020-03-19,2020-04-12,National,https://www.bloomberg.com/news/articles/2020-03-20/argentina-orders-exceptional-lockdown-in-bid-to-contain-virus,2020-03-20 00:00:00,False,-38.416097,-63.61667199999999
-Germany,Bavaria,2020-03-20,2020-04-03,State,https://www.dw.com/en/coronavirus-latest-bavaria-announces-lockdown/a-52849294,2020-03-20 00:00:00,False,48.7904472,11.4978895
-Italy,,2020-03-09,2020-04-13,National,https://www.wsj.com/articles/italy-bolsters-quarantine-checks-after-initial-lockdown-confusion-11583756737,2020-03-20 00:00:00,False,41.87194,12.56738
-France,,2020-03-17,2020-04-15,National,https://www.independent.co.uk/news/world/europe/coronavirus-france-lockdown-cases-update-covid-19-macron-a9405136.html,2020-03-20 00:00:00,False,46.227638,2.213749
-Ireland,,2020-03-12,2020-04-12,National,https://www.thesun.co.uk/news/11157853/what-time-irelands-coronavirus-lockdown-start/,2020-03-21 00:00:00,False,53.1423672,-7.692053599999999
-Denmark,,2020-03-11,2020-04-13,National,https://www.themayor.eu/en/denmark-goes-on-lockdown,2020-03-21 00:00:00,False,56.26392,9.501785
-Poland,,2020-03-13,2020-04-12,National,https://www.thefirstnews.com/article/poland-in-covid-19-lockdown-pm-orders-bars-restaurants-shopping-centres-and-borders-closed---and-cancels-all-flights-11142,2020-03-21 00:00:00,False,51.919438,19.145136
-Colombia,,2020-03-25,2020-04-13,National,https://www.eltiempo.com/salud/cuarentena-total-en-colombia-por-el-coronavirus-declara-el-presidente-ivan-duque-475512,2020-03-22 00:00:00,False,4.570868,-74.297333
-Australia,,2020-03-23,2020-04-24,National,https://www.straitstimes.com/asia/australianz/australia-starts-lockdown-measures-as-coronavirus-cases-jump,2020-03-23 00:00:00,False,-25.274398,133.775136
-Costa Rica,,2020-03-23,2020-04-13,National,https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1582-gobierno-endurece-medidas-sanitarias-para-impedir-contagio-de-covid-19,2020-03-23 00:00:00,False,9.748916999999999,-83.753428
-Brazil,São Paulo,2020-03-24,2020-04-07,State,https://g1.globo.com/jornal-nacional/noticia/2020/03/21/governo-de-sao-paulo-decreta-quarentena-de-15-dias-em-todo-o-estado-por-causa-do-coronavirus.ghtml,2020-03-23 00:00:00,False,-23.5505199,-46.63330939999999
-South Africa,,2020-03-26,2020-04-16,National,https://www.theguardian.com/world/2020/mar/23/south-africa-to-go-into-21-day-lockdown-on-thursday-night,2020-03-24 00:00:00,False,-30.559482,22.937506
-United Kingdom,,2020-03-24,2020-04-13,National,https://www.bbc.com/news/uk-52014472,2020-03-24 00:00:00,False,55.378051,-3.435973
-New Zealand,,2020-03-26,2020-04-19,National,https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12319204,2020-03-24 00:00:00,False,-40.900557,174.885971
-United States,"Kansas City, KS",2020-03-24,2020-04-23,City,https://www.cjonline.com/news/20200321/kansas-coronavirus-update-30-day-quarantine-ordered-for-kc-state-records-second-death-55-cases,2020-03-24 00:00:00,False,39.11553139999999,-94.62678729999999
-Romania,,2020-03-25,2020-04-14,National,https://www.digi24.ro/stiri/actualitate/klaus-iohannis-anunta-carantina-totala-in-romania-tot-ce-era-pana-acum-recomandare-devine-obligatoriu-masurile-in-vigoare-de-maine-1280363,2020-03-24 00:00:00,False,45.943161,24.96676
-Lithuania,,2020-03-16,2020-04-13,National,https://www.15min.lt/naujiena/aktualu/lietuva/vyriausybeje-susauktas-pasitarimas-del-koronaviruso-skelbs-tolimesniu-veiksmu-plana-56-1289458,2020-03-24 00:00:00,False,55.169438,23.881275
-China,Xiaogan,2020-01-24,2020-03-25,City,https://www.theguardian.com/world/2020/mar/24/china-to-lift-travel-restrictions-in-hubei-after-months-of-coronavirus-lockdown,2020-03-24 00:00:00,True,30.917766,113.957037
-Venezuela,,2020-03-17,2020-04-19,National,https://www.reuters.com/article/us-health-coronavirus-venezuela-maduro/venezuelas-to-implement-nationwide-quarantine-as-coronavirus-cases-rise-to-33-idUSKBN214015,2020-03-24 00:00:00,False,6.42375,-66.58973
-China,Shennongjia,2020-01-27,2020-03-25,City,https://www.theguardian.com/world/2020/mar/24/china-to-lift-travel-restrictions-in-hubei-after-months-of-coronavirus-lockdown,2020-03-24 00:00:00,True,31.743483,110.680447
-China,Huanggang,2020-01-23,2020-03-25,City,https://www.theguardian.com/world/2020/mar/24/china-to-lift-travel-restrictions-in-hubei-after-months-of-coronavirus-lockdown,2020-03-24 00:00:00,True,30.453667,114.872199
-China,Tianmen,2020-01-24,2020-03-25,City,https://www.theguardian.com/world/2020/mar/24/china-to-lift-travel-restrictions-in-hubei-after-months-of-coronavirus-lockdown,2020-03-24 00:00:00,True,29.046809,110.482084
-China,Xiantao,2020-01-24,2020-03-25,City,https://www.theguardian.com/world/2020/mar/24/china-to-lift-travel-restrictions-in-hubei-after-months-of-coronavirus-lockdown,2020-03-24 00:00:00,True,30.360882,113.423482
-China,Jingmen,2020-01-24,2020-03-25,City,https://www.theguardian.com/world/2020/mar/24/china-to-lift-travel-restrictions-in-hubei-after-months-of-coronavirus-lockdown,2020-03-24 00:00:00,True,31.035395,112.199427
-India,,2020-03-25,2020-04-15,National,https://www.indiatoday.in/india/story/novel-coronavirus-covid19-latest-news-update-india-lockdown-confirmed-positive-cases-deaths-uk-usa-italy-iran-china-1658922-2020-03-24,2020-03-24 00:00:00,False,20.593684,78.96288
-Chile,,2020-03-19,2020-04-14,National,https://nationalpost.com/pmn/health-pmn/chile-announces-nationwide-nightly-curfew-coronavirus-cases-hit-632,2020-03-24 00:00:00,False,-35.675147,-71.542969
-China,Enshi,2020-01-24,2020-03-25,City,https://www.theguardian.com/world/2020/mar/24/china-to-lift-travel-restrictions-in-hubei-after-months-of-coronavirus-lockdown,2020-03-24 00:00:00,True,30.272156,109.488172
-China,Ezhou,2020-01-23,2020-03-25,City,https://www.theguardian.com/world/2020/mar/24/china-to-lift-travel-restrictions-in-hubei-after-months-of-coronavirus-lockdown,2020-03-24 00:00:00,True,30.39194,114.894843
-China,Suizhou,2020-01-24,2020-03-25,City,https://www.theguardian.com/world/2020/mar/24/china-to-lift-travel-restrictions-in-hubei-after-months-of-coronavirus-lockdown,2020-03-24 00:00:00,True,31.690215,113.382458
-China,Shiyan,2020-01-24,2020-03-25,City,https://www.theguardian.com/world/2020/mar/24/china-to-lift-travel-restrictions-in-hubei-after-months-of-coronavirus-lockdown,2020-03-24 00:00:00,True,32.629398,110.798266
-China,Xianning,2020-01-24,2020-03-25,City,https://www.theguardian.com/world/2020/mar/24/china-to-lift-travel-restrictions-in-hubei-after-months-of-coronavirus-lockdown,2020-03-24 00:00:00,True,29.841438,114.322439
-China,Yichang,2020-01-24,2020-03-25,City,https://www.theguardian.com/world/2020/mar/24/china-to-lift-travel-restrictions-in-hubei-after-months-of-coronavirus-lockdown,2020-03-24 00:00:00,True,30.691966,111.286471
-Pakistan,Sindh,2020-03-24,2020-04-14,Province,https://tribune.com.pk/story/2181138/1-sindh-govt-mulls-total-lockdown-provincial-covid-19-tally-crosses-350/,2020-03-25 00:00:00,False,25.8943018,68.52471489999999
-Philippines,Davao Region,2020-03-19,2020-04-14,Region,https://www.rappler.com/nation/255097-davao-region-coronavirus-lockdown-begins,2020-03-25 00:00:00,False,7.3041622,126.0893406
-Philippines,Soccsksargen,2020-03-23,2020-04-14,Region,https://www.rappler.com/nation/255097-davao-region-coronavirus-lockdown-begins,2020-03-25 00:00:00,False,6.2706918,124.6856509
-Pakistan,Gilgit-Baltistan,2020-03-22,2020-04-14,Administrative,https://www.radio.gov.pk/22-03-2020/gb-govt-decides-to-observe-lockdown-for-indefinite-period,2020-03-25 00:00:00,False,35.80256670000001,74.9831808
-Pakistan,Azad Kashmir,2020-03-24,2020-04-14,Administrative,https://arynews.tv/en/azad-jammu-and-kashmir-pm-lockdown/,2020-03-25 00:00:00,False,33.9259055,73.7810334
-Norway,,2020-03-12,2020-04-13,National,https://www.thelocal.no/20200324/norway-extends-coronavirus-lockdown-until-after-easter,2020-03-25 00:00:00,False,60.47202399999999,8.468945999999999
-Montenegro,Tuzi,2020-03-24,2020-04-14,Municipality,https://balkaninsight.com/2020/03/25/montenegro-places-first-town-under-total-quarantine/,2020-03-25 00:00:00,False,42.36894239999999,19.3128909
-Pakistan,Punjab,2020-03-24,2020-04-14,Province,https://arynews.tv/en/cm-punjab-usman-buzdar-lockdown-punjab/,2020-03-25 00:00:00,False,31.1704063,72.7097161
-Pakistan,Balochistan,2020-03-24,2020-04-14,Province,https://tribune.com.pk/story/2183565/1-balochistan-goes-lockdown-untill-april-7/,2020-03-26 00:00:00,False,28.4907332,65.0957792
-Samoa,,2020-03-26,2020-04-09,National,https://www.rnz.co.nz/international/pacific-news/412647/samoa-officially-on-lock-down,2020-03-26 00:00:00,False,-13.759029,-172.104629
-Indonesia,Tegal,2020-03-26,2020-07-25,City,https://jateng.suara.com/read/2020/03/26/142841/pertama-di-indonesia-walikota-umumkan-tegal-lockdown,2020-03-26 00:00:00,False,-6.879704100000001,109.1255917
-Peru,,2020-03-16,2020-04-11,National,https://gestion.pe/peru/politica/coronavirus-en-peru-gobierno-anuncia-cuarentena-obligatorio-por-15-dias-por-coronavirus-noticia/,2020-03-27 00:00:00,False,-9.189967,-75.015152
-Finland,Uusimaa,2020-03-27,2020-04-14,Region,https://yle.fi/uutiset/osasto/news/finland_shuts_down_uusimaa_to_fight_coronavirus/11276242,2020-03-27 00:00:00,False,60.21872,25.271621
-Hungary,,2020-03-28,2020-04-11,National,https://www.reuters.com/article/us-health-coronavirus-hungary-restrictio/hungary-pm-imposes-lockdown-sees-coronavirus-peak-by-july-idUSKBN21E0Q2,2020-03-27 00:00:00,False,47.162494,19.5033041
-Rwanda,,2020-03-21,2020-04-12,National,https://www.dw.com/en/coronavirus-rwanda-imposes-africas-first-lockdown/a-52878787,2020-03-28 00:00:00,False,-1.940278,29.873888
-Honduras,,2020-03-17,2020-04-12,National,https://covid19honduras.org/?q=toque-de-queda-hasta-12-de-abril,2020-03-29 00:00:00,False,15.199999,-86.241905
-Zimbabwe,,2020-03-30,2020-04-12,National,https://www.voanews.com/science-health/coronavirus-outbreak/zimbabwe-begins-lockdown-fight-covid19,2020-03-30 00:00:00,False,-19.015438,29.154857
-Saudi Arabia,Riyadh,2020-03-26,2020-04-14,City,https://www.thestar.com.my/news/regional/2020/03/29/saudi-arabia-puts-fourth-city-on-lockdown-over-coronavirus,2020-03-30 00:00:00,False,24.7135517,46.6752957
-Saudi Arabia,Qatif,2020-03-09,2020-04-14,Area,https://www.aljazeera.com/news/2020/03/saudi-locks-qatif-coronavirus-surges-gulf-200308142809697.html,2020-03-30 00:00:00,False,26.5764917,49.998236
-Algeria,Algiers,2020-03-23,2020-04-14,City,https://www.garda.com/crisis24/news-alerts/325896/algeria-government-implements-lockdown-and-curfew-in-blida-and-algiers-march-23-update-7,2020-03-30 00:00:00,False,36.753768,3.0587561
-Saudi Arabia,Mecca,2020-03-26,2020-04-14,City,https://www.thestar.com.my/news/regional/2020/03/29/saudi-arabia-puts-fourth-city-on-lockdown-over-coronavirus,2020-03-30 00:00:00,False,21.3890824,39.8579118
-Saudi Arabia,Medina,2020-03-26,2020-04-14,City,https://www.thestar.com.my/news/regional/2020/03/29/saudi-arabia-puts-fourth-city-on-lockdown-over-coronavirus,2020-03-30 00:00:00,False,24.5246542,39.5691841
-Algeria,Blida,2020-03-23,2020-04-14,City,https://www.garda.com/crisis24/news-alerts/325896/algeria-government-implements-lockdown-and-curfew-in-blida-and-algiers-march-23-update-7,2020-03-30 00:00:00,False,36.4735715,2.8323153
-Ghana,Accra,2020-03-30,2020-04-14,Metropolitan Area,https://qz.com/africa/1827789/coronavirus-ghana-senegal-burkina-faso-shut-down/,2020-03-30 00:00:00,False,5.6037168,-0.1869644
-Ghana,Kumasi,2020-03-30,2020-04-14,Metropolitan Area,https://qz.com/africa/1827789/coronavirus-ghana-senegal-burkina-faso-shut-down/,2020-03-30 00:00:00,False,6.6666004,-1.6162709
-Iraq,,2020-03-22,2020-04-11,National,https://www.thestar.com.my/news/regional/2020/03/22/iraq-on-total-lockdown-until-march-28-over-virus-fears,2020-03-30 00:00:00,False,33.223191,43.679291
-Liberia,Margibi,2020-03-23,2020-04-14,County,https://www.liberianobserver.com/news/montserrado-margibi-lockdown-amid-covid-19-fears/,2020-03-30 00:00:00,False,6.5151875,-10.3048897
-Liberia,Montserrado,2020-03-23,2020-04-14,County,https://www.liberianobserver.com/news/montserrado-margibi-lockdown-amid-covid-19-fears/,2020-03-30 00:00:00,False,6.5525815,-10.5296115
-Madagascar,Antananarivo,2020-03-23,2020-04-12,City,https://www.news24.com/Africa/News/everyone-stay-at-home-madagascar-orders-lockdown-of-two-main-cities-in-virus-fight-20200323,2020-03-30 00:00:00,False,-18.8791902,47.5079055
-Madagascar,Toamasina,2020-03-23,2020-04-12,City,https://www.news24.com/Africa/News/everyone-stay-at-home-madagascar-orders-lockdown-of-two-main-cities-in-virus-fight-20200323,2020-03-30 00:00:00,False,-18.1442811,49.3957836
-Nigeria,Abuja,2020-03-30,2020-04-14,City,https://www.aljazeera.com/news/2020/03/nigeria-announces-lockdown-major-cities-curb-coronavirus-200330095100706.html,2020-03-30 00:00:00,False,9.0764785,7.398574
-Bolivia,,2020-03-22,2020-04-14,National,https://www.euronews.com/2020/03/19/coronavirus-which-countries-are-under-lockdown-and-who-s-next,2020-03-30 00:00:00,False,-16.290154,-63.58865299999999
-Nigeria,Ogun,2020-03-30,2020-04-14,State,https://www.aljazeera.com/news/2020/03/nigeria-announces-lockdown-major-cities-curb-coronavirus-200330095100706.html,2020-03-30 00:00:00,False,6.997974699999999,3.4737378
-Russia,Moscow,2020-03-30,2020-04-12,Metropolitan area,https://www.france24.com/en/20200330-moscow-goes-into-lockdown-urges-other-russian-regions-to-take-measures-to-curb-coronavirus-spread,2020-03-30 00:00:00,False,55.755826,37.6172999
-Saudi Arabia,Jeddah,2020-03-29,2020-04-14,City,https://www.thestar.com.my/news/regional/2020/03/29/saudi-arabia-puts-fourth-city-on-lockdown-over-coronavirus,2020-03-30 00:00:00,False,21.485811,39.19250479999999
-Nigeria,Lagos,2020-03-30,2020-04-14,City,https://www.aljazeera.com/news/2020/03/nigeria-announces-lockdown-major-cities-curb-coronavirus-200330095100706.html,2020-03-30 00:00:00,False,6.5243793,3.3792057
-Papua New Guinea,,2020-03-24,2020-04-13,National,https://www.businessadvantagepng.com/png-in-lockdown-what-it-means-for-you-and-your-business/,2020-03-30 00:00:00,False,-6.314992999999999,143.95555
-Paraguay,,2020-03-20,2020-04-12,National,https://www.nytimes.com/reuters/2020/03/20/world/americas/20reuters-health-coronavirus-paraguay.html,2020-03-30 00:00:00,False,-23.442503,-58.443832
-Cuba,,2020-03-23,2020-04-19,National,https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-24-20-intl-hnk/h_7b694d17a78f2c02d7c76570e1726508,2020-03-31 00:00:00,False,21.521757,-77.781167
-Libya,,2020-03-22,2020-04-20,National,https://www.libyanexpress.com/libya-on-lockdown-from-6-00-pm-to-6-00-am-amid-coronavirus-preventive-measures/,2020-03-31 00:00:00,False,26.3351,17.228331
-Philippines,Cebu,2020-03-27,2020-04-14,Province,https://www.cnnphilippines.com/regional/2020/3/26/Cebu-Province-enhanced-community-quarantine.html,2020-03-31 00:00:00,False,10.607936,123.8857747
-Brazil,Santa Catarina,2020-03-17,2020-04-08,State,https://g1.globo.com/sc/santa-catarina/noticia/2020/03/29/casos-de-pacientes-com-coronavirus-sobe-para-197-em-sc-e-governo-prorroga-quarentena.ghtml,2020-04-01 00:00:00,False,-27.2423392,-50.2188556
-Croatia,Murter,2020-03-25,2020-04-13,Municipality,https://vijesti.hrt.hr/595672/hrt-na-murteru-policijska-blokada-prijeci-svako-kretanje,2020-04-01 00:00:00,False,43.8083553,15.6002024
-China,Jia County,2020-04-01,2020-04-08,City,https://www.nytimes.com/reuters/2020/04/01/world/asia/01reuters-health-coronavirus-china-county.html,2020-04-02 00:00:00,True,33.971787,113.212609
-Fiji,Suva,2020-04-03,2020-04-14,City,https://www.rnz.co.nz/international/pacific-news/413281/fiji-confirms-two-new-covid-19-cases-suva-will-go-into-lockdown,2020-04-02 00:00:00,False,-18.1248086,178.4500789
-Netherlands,,2020-03-16,2020-04-28,National,https://nos.nl/nieuwsuur/artikel/2327187-de-uitzending-van-15-maart-verregaande-maatregelen-in-strijd-tegen-corona.html,2020-04-02 00:00:00,False,52.132633,5.291265999999999
-Israel,Bnei Brak,2020-04-02,2020-04-15,City,https://www.timesofisrael.com/liveblog-april-2-2020/,2020-04-02 00:00:00,False,32.084932,34.835226
-Singapore,,2020-04-07,2020-05-04,National,https://www.straitstimes.com/singapore/health/most-workplaces-to-close-schools-will-move-to-full-home-based-learning-from-next,2020-04-03 00:00:00,False,1.352083,103.819836
-Botswana,,2020-04-02,2020-04-30,National,https://www.msn.com/en-za/news/africa/botswana-declares-state-of-emergency-lockdown-in-wake-of-covid-19-cases/ar-BB11X4lP?li=BBqfWMJ,2020-04-03 00:00:00,False,-22.328474,24.684866
-Republic of the Congo,,2020-03-31,2020-04-20,National,https://www.msn.com/en-xl/news/other/covid-19-lagos-brazzaville-lockdown-begins/ar-BB11ZAhn,2020-04-03 00:00:00,False,-0.228021,15.827659
-Oman,Muttrah,2020-04-01,2020-04-18,District,https://www.msn.com/en-ae/news/other/covid-19-oman-puts-muttrah-province-in-lockdown/ar-BB121CMc,2020-04-03 00:00:00,False,23.617276,58.557239
-Qatar,Doha Industrial Area,2020-03-11,2020-04-13,Industrial park,https://www.theguardian.com/global-development/2020/mar/20/covid-19-lockdown-turns-qatars-largest-migrant-camp-into-virtual-prison,2020-04-03 00:00:00,False,25.2029096,51.43489870000001
-Canada,Quebec,2020-03-13,,Province,https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/,2020-04-04 00:00:00,False,52.9399159,-73.5491361
-Lebanon,,2020-03-22,,National,https://the961.com/major-malls-across-lebanon-close-until-further-notice/,2020-04-04 00:00:00,False,33.854721,35.862285
-United States,Oklahoma,2020-03-25,2020-04-30,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,35.0077519,-97.092877
-United States,Georgia,2020-04-03,2020-04-13,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,32.1656221,-82.9000751
-United States,Kentucky,2020-03-23,,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,37.8393332,-84.2700179
-United States,Washington,2020-03-25,,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,47.7510741,-120.7401385
-United States,Virginia,2020-03-24,2020-04-23,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,37.4315734,-78.6568942
-United States,Nevada,2020-03-17,2020-04-30,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,38.8026097,-116.419389
-United States,Wisconsin,2020-03-25,2020-04-24,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,43.7844397,-88.7878678
-United States,Vermont,2020-03-25,2020-04-15,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,44.5588028,-72.57784149999999
-United States,West Virginia,2020-03-24,,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,38.5976262,-80.4549026
-El Salvador,,2020-03-21,2020-04-21,National,https://www.reuters.com/article/us-health-coronavirus-el-salvador/el-salvador-registers-first-coronavirus-infection-president-says-idUSKBN2160CF,2020-04-04 00:00:00,False,13.794185,-88.89653
-Mexico,,2020-03-21,2020-04-30,National,https://mx.usembassy.gov/covid-19-information/,2020-04-04 00:00:00,False,23.634501,-102.552784
-Mauritius,,2020-03-24,2020-04-15,National,https://ionnews.mu/video-covid-19-lockdown-renforce-supermarches-et-boulangeries-fermes-jusquau-31-mars-24032020/,2020-04-04 00:00:00,False,-20.348404,57.55215200000001
-Georgia,,2020-03-31,2020-04-13,National,https://www.bizjournals.com/atlanta/news/2020/04/02/here-are-the-details-of-georgias-10-day-statewide.html,2020-04-04 00:00:00,False,32.1656221,-82.9000751
-Senegal,,2020-03-30,,National,https://qz.com/africa/1827789/coronavirus-ghana-senegal-burkina-faso-shut-down/,2020-04-04 00:00:00,False,14.497401,-14.452362
-Sierra Leone,,2020-04-04,2020-04-07,National,https://medicalxpress.com/news/2020-04-sierra-leone-three-day-lockdown-coronavirus.html,2020-04-04 00:00:00,False,8.460555,-11.779889
-Serbia,,2020-03-21,,National,https://www.zdravlje.gov.rs/vest/346687/informacije-o-novom-korona-virusu-2103-u-8-casova.php,2020-04-04 00:00:00,False,44.016521,21.005859
-United States,Texas,2020-04-02,2020-04-30,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,31.9685988,-99.9018131
-Ukraine,,2020-03-30,2020-04-24,National,https://www.kyivpost.com/ukraine-politics/ukraine-to-intensify-quarantine-measures-until-april-24.html,2020-04-04 00:00:00,False,48.379433,31.1655799
-Tunisia,,2020-03-22,2020-04-19,National,https://www.aljazeera.com/news/2020/03/tunisia-extends-lockdown-weeks-releases-prisoners-200331194042414.html,2020-04-04 00:00:00,False,33.886917,9.537499
-Bulgaria,,2020-03-13,2020-05-13,National,https://www.segabg.com/hot/category-bulgaria/gerb-udulzhi-izvunrednoto-polozhenie-podkrepata-na-dps,2020-04-04 00:00:00,False,42.733883,25.48583
-Albania,,2020-03-10,,National,https://www.tiranatimes.com/?p=144535,2020-04-04 00:00:00,False,41.153332,20.168331
-Monaco,,2020-03-14,,National,https://www.hellomonaco.com/news/latest-news/closure-of-creches-and-schools-in-monaco-and-increasing-prudent-restrictions-due-to-coronavirus/,2020-04-04 00:00:00,False,43.73841760000001,7.424615799999999
-Germany,,2020-03-23,2020-04-20,National,https://www.dw.com/en/germany-wont-lift-coronavirus-restrictions-before-april-20-chancellory/a-52947201,2020-04-04 00:00:00,False,51.165691,10.451526
-Portugal,,2020-03-19,2020-04-17,National,https://24.sapo.pt/atualidade/artigos/parlamento-aprova-renovacao-do-estado-de-emergencia,2020-04-04 00:00:00,False,39.39987199999999,-8.224454
-Puerto Rico,,2020-03-15,2020-04-12,National,https://apnews.com/55aea72497c17c976c7a9ab83c790133,2020-04-04 00:00:00,False,18.220833,-66.590149
-United States,Tennessee,2020-04-02,2020-04-14,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,35.5174913,-86.5804473
-United States,Maine,2020-04-02,2020-04-30,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,45.253783,-69.4454689
-United States,Pennsylvania,2020-04-01,2020-04-26,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,41.2033216,-77.1945247
-United States,Alaska,2020-03-28,2020-04-11,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,64.2008413,-149.4936733
-United States,Arizona,2020-03-31,,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,34.0489281,-111.0937311
-United States,California,2020-03-19,,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,36.778261,-119.4179324
-United States,Colorado,2020-03-26,2020-04-11,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,39.5500507,-105.7820674
-United States,Connecticut,2020-03-23,,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,41.6032207,-73.087749
-United States,Delaware,2020-03-24,2020-05-15,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,38.9108325,-75.52766989999999
-United States,District of Columbia,2020-04-01,,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,38.9071923,-77.0368707
-United States,Florida,2020-04-03,2020-04-30,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,27.6648274,-81.5157535
-United States,Hawaii,2020-03-25,2020-04-30,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,19.8967662,-155.5827818
-United States,Idaho,2020-03-25,2020-04-15,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,44.0682019,-114.7420408
-United States,Illinois,2020-03-21,2020-04-07,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,40.6331249,-89.3985283
-United States,Rhode Island,2020-03-30,2020-04-26,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,41.5800945,-71.4774291
-United States,Kansas,2020-03-30,2020-04-19,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,39.011902,-98.4842465
-United States,Louisiana,2020-03-23,2020-04-30,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,30.9842977,-91.96233269999999
-United States,New Hampshire,2020-03-27,2020-05-04,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,43.1938516,-71.5723953
-United States,Oregon,2020-03-23,,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,43.8041334,-120.5542012
-Thailand,,2020-03-25,2020-04-30,National,https://theaseanpost.com/article/surviving-virus-lockdown,2020-04-04 00:00:00,False,15.870032,100.992541
-United States,North Carolina,2020-03-30,,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,35.7595731,-79.01929969999999
-United States,New York,2020-03-22,,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,40.7127753,-74.0059728
-United States,New Mexico,2020-03-24,,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,34.5199402,-105.8700901
-United States,New Jersey,2020-03-21,,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,40.0583238,-74.4056612
-United States,Maryland,2020-03-30,,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,39.0457549,-76.64127119999999
-Eritrea,,2020-04-02,2020-04-23,National,http://www.xinhuanet.com/english/2020-04/02/c_138941459.htm,2020-04-04 00:00:00,False,15.179384,39.782334
-United States,Missouri,2020-04-03,2020-04-24,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,37.9642529,-91.8318334
-United States,Mississippi,2020-04-03,,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,32.3546679,-89.3985283
-United States,Minnesota,2020-03-27,2020-04-10,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,46.729553,-94.6858998
-United States,Michigan,2020-03-24,2020-04-14,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,44.3148443,-85.60236429999999
-United States,Massachusetts,2020-03-24,2020-05-04,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,42.4072107,-71.3824374
-United States,Montana,2020-03-28,,State,https://edition.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html,2020-04-04 00:00:00,False,46.8796822,-110.3625658
-Azerbaijan,,2020-03-31,2020-04-20,National,https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/azerbaijan-to-impose-curfew-amid-coronavirus-outbreak/1785680,2020-04-05 00:00:00,False,40.143105,47.576927
-Greece,,2020-03-23,2020-04-27,National,https://www.brusselstimes.com/all-news/104861/coronavirus-greece-extends-lockdown-to-27-april/,2020-04-06 00:00:00,False,39.074208,21.824312
-United States,Indiana,2020-03-24,2020-04-20,State,https://www.wibc.com/news/coronavirus/holcomb-to-extend-statewide-lockdown-through-april-20/,2020-04-06 00:00:00,False,40.2671941,-86.1349019
-United States,Ohio,2020-03-23,2020-05-01,State,https://www.13abc.com/content/news/Gov-DeWine-extends-coronavirus--569322881.html,2020-04-06 00:00:00,False,40.4172871,-82.90712300000001
-United Arab Emirates,,2020-03-22,2020-04-18,National,https://www.garda.com/crisis24/news-alerts/329386/uae-authorities-lock-down-dubai-as-of-april-4-due-to-covid-19-outbreak-update-21,2020-04-06 00:00:00,False,23.424076,53.847818
-Nepal,,2020-03-24,2020-04-07,National,https://myrepublica.nagariknetwork.com/news/govt-mulls-extending-lockdown-by-at-least-one-week/,2020-04-06 00:00:00,False,28.394857,84.12400799999999
+Country,Place,Start date,End date,Level,lat,lon
+Albania,Albania,2020-03-13,,National,41.153332,20.168331
+Algeria,Algiers,2020-03-23,2020-04-19,City,36.753768,3.0587561
+Algeria,Blida,2020-03-23,2020-04-19,City,36.4735715,2.8323153
+Argentina,Argentina,2020-03-19,2020-04-12,National,-38.416097,-63.61667199999999
+Australia,Australia,2020-03-23,,National,-25.274398,133.775136
+Austria,Austria,2020-03-16,2020-04-13,National,47.516231,14.550072
+Azerbaijan,Azerbaijan,2020-03-31,2020-04-20,National,40.143105,47.576927
+Belgium,Belgium,2020-03-18,2020-04-19,National,50.503887,4.469936
+Bolivia,Bolivia,2020-03-22,2020-04-15,National,-16.290154,-63.58865299999999
+Botswana,Botswana,2020-04-02,2020-04-30,National,-22.328474,24.684866
+Brazil,Santa Catarina,2020-03-17,2020-04-07,State,-27.2423392,-50.2188556
+Brazil,São Paulo,2020-03-24,2020-04-08,State,-23.5505199,-46.63330939999999
+Chile,Chile,2020-03-19,,National,-35.675147,-71.542969
+Colombia,Colombia,2020-03-25,2020-04-13,National,4.570868,-74.297333
+Republic of the Congo,Republic of the Congo,2020-03-31,2020-04-20,National,-0.228021,15.827659
+Costa Rica,Costa Rica,2020-03-23,,National,9.748916999999999,-83.753428
+Croatia,Murter,2020-03-25,,Municipality,43.8083553,15.6002024
+Croatia,,2020-03-18,,National,45.1,15.2000001
+Cuba,Cuba,2020-03-23,2020-04-20,National,39.7350701,-104.9931524
+Czech Republic,Czech Republic,2020-03-16,2020-04-12,National,49.81749199999999,15.472962
+Denmark,Denmark,2020-03-11,2020-04-13,National,56.26392,9.501785
+Dominican Republic,Dominican Republic,2020-03-19,,National,18.735693,-70.162651
+Ecuador,Ecuador,2020-03-16,2020-03-31,National,-1.831239,-78.18340599999999
+El Salvador,El Salvador,2020-03-12,2020-04-02,National,13.794185,-88.89653
+Eritrea,Eritrea,2020-04-02,2020-04-23,National,15.179384,39.782334
+Fiji,Lautoka,2020-03-20,2020-04-07,City,-17.6169957,177.4504888
+Fiji,Suva,2020-04-03,2020-04-17,City,-18.1248086,178.4500789
+Finland,Uusimaa,2020-03-27,2020-04-16,Region,60.21872,25.271621
+France,France,2020-03-17,2020-04-15,National,46.227638,2.213749
+Germany,Bavaria,2020-03-20,2020-04-19,State,48.7904472,11.4978895
+Germany,"Freiburg, BW",2020-03-21,2020-04-03,City,47.9990077,7.842104299999999
+Ghana,Accra,2020-03-30,2020-04-12,Metropolitan Area,5.6037168,-0.1869644
+Ghana,Kumasi,2020-03-30,2020-04-12,Metropolitan Area,6.6666004,-1.6162709
+Greece,Greece,2020-03-23,2020-04-27,National,39.074208,21.824312
+Honduras,,2020-03-20,2020-04-19,National,15.199999,-86.241905
+Honduras,Central District,2020-03-16,,Municipality,14.1311004,-87.2618328
+Honduras,La Ceiba,2020-03-16,,Municipality,15.770288,-86.7919009
+Honduras,Choluteca,2020-03-16,,Municipality,13.3198572,-87.1622344
+Honduras,San Pedro Sula,2020-03-17,,Municipality,15.5038827,-88.01386190000001
+Hungary,Hungary,2020-03-28,2020-04-10,National,47.162494,19.5033041
+India,India,2020-03-25,2020-04-14,National,20.593684,78.96288
+Indonesia,Jakarta,2020-04-10,2020-04-23,Province,-6.2087634,106.845599
+Indonesia,Tegal,2020-03-26,2020-07-31,City,-6.879704100000001,109.1255917
+Iraq,Iraq,2020-03-22,2020-04-11,National,33.223191,43.679291
+Ireland,Ireland,2020-03-12,2020-05-05,National,53.1423672,-7.692053599999999
+Israel,Bnei Brak,2020-04-02,,City,32.084932,34.835226
+Italy,Italy,2020-03-09,2020-05-03,National,41.87194,12.56738
+Japan,Chiba,2020-04-07,2020-05-06,Prefecture,35.6074041,140.1065366
+Japan,Fukuoka,2020-04-07,2020-05-06,Prefecture,33.5901838,130.4016888
+Japan,Hyōgo,2020-04-07,2020-05-06,Prefecture,34.8579518,134.5453787
+Japan,Kanagawa,2020-04-07,2020-05-06,Prefecture,35.4827827,139.6146102
+Japan,Osaka,2020-04-07,2020-05-06,Prefecture,34.6937249,135.5022535
+Japan,Saitama,2020-04-07,2020-05-06,Prefecture,35.8616486,139.6454782
+Japan,Tokyo,2020-04-07,2020-05-06,Prefecture,35.6761919,139.6503106
+Jordan,Jordan,2020-03-21,,National,40.740557,-73.98584269999999
+Kuwait,Kuwait,2020-03-14,2020-03-29,National,29.375859,47.9774052
+Lebanon,Lebanon,2020-03-15,2020-03-28,National,33.854721,35.862285
+Liberia,Margibi,2020-03-23,2020-04-11,County,6.5151875,-10.3048897
+Liberia,Montserrado,2020-03-23,2020-04-11,County,6.5525815,-10.5296115
+Libya,Libya,2020-03-22,,National,26.3351,17.228331
+Lithuania,Lithuania,2020-03-16,2020-04-27,National,55.169438,23.881275
+Luxembourg,Luxembourg,2020-03-18,,National,49.61162100000001,6.1319346
+Madagascar,Antananarivo,2020-03-23,,City,-18.8791902,47.5079055
+Madagascar,Toamasina,2020-03-23,,City,-18.1442811,49.3957836
+Malaysia,Malaysia,2020-03-18,2020-04-28,National,4.210484,101.975766
+Montenegro,Tuzi,2020-03-24,,Municipality,42.36894239999999,19.3128909
+Morocco,Morocco,2020-03-19,2020-04-20,National,31.791702,-7.092619999999999
+Nepal,Nepal,2020-03-24,2020-04-07,National,28.394857,84.12400799999999
+Netherlands,Netherlands,2020-03-16,2020-04-28,National,52.132633,5.291265999999999
+New Zealand,New Zealand,2020-03-26,,National,-40.900557,174.885971
+Nigeria,Abuja,2020-03-30,2020-04-12,City,9.0764785,7.398574
+Nigeria,Lagos,2020-03-30,2020-04-12,City,6.5243793,3.3792057
+Nigeria,Ogun,2020-03-30,2020-04-12,State,6.997974699999999,3.4737378
+Northern Cyprus,Northern Cyprus,2020-03-30,,National,35.2480359,33.6577243
+Norway,Norway,2020-03-12,2020-04-13,National,60.47202399999999,8.468945999999999
+Oman,Muscat,2020-04-10,2020-04-22,Region,23.5880307,58.3828717
+Pakistan,Azad Kashmir,2020-03-24,2020-04-14,Administrative,33.9259055,73.7810334
+Pakistan,Punjab,2020-03-24,2020-04-14,Province,31.1704063,72.7097161
+Pakistan,Sindh,2020-03-24,2020-04-14,Province,25.8943018,68.52471489999999
+Pakistan,Balochistan,2020-03-24,2020-04-21,Province,28.4907332,65.0957792
+Pakistan,Gilgit-Baltistan,2020-03-22,2020-04-21,Administrative,35.80256670000001,74.9831808
+Panama,Panama,2020-03-25,2020-04-07,National,8.537981,-80.782127
+Papua New Guinea,Papua New Guinea,2020-03-24,2020-04-07,National,-6.314992999999999,143.95555
+Paraguay,Paraguay,2020-03-20,2020-04-12,National,-23.442503,-58.443832
+Peru,Peru,2020-03-16,2020-04-26,National,-9.189967,-75.015152
+Philippines,Cebu,2020-03-27,2020-04-30,Province,10.607936,123.8857747
+Philippines,Davao Region,2020-03-19,2020-04-30,Region,7.3041622,126.0893406
+Philippines,Luzon,2020-03-15,2020-04-30,Island group,16.5662318,121.2626366
+Philippines,Soccsksargen,2020-03-23,2020-04-30,Region,6.2706918,124.6856509
+Poland,Poland,2020-03-13,2020-04-11,National,51.919438,19.145136
+Portugal,Portugal,2020-03-19,2020-04-02,National,39.39987199999999,-8.224454
+Qatar,Doha Industrial Area,2020-03-11,,Industrial park,25.2029096,51.43489870000001
+Romania,Romania,2020-03-25,2020-05-12,National,45.943161,24.96676
+Russia,Moscow,2020-03-30,2020-04-14,Metropolitan area,55.755826,37.6172999
+Rwanda,Rwanda,2020-03-21,2020-04-19,National,-1.940278,29.873888
+Samoa,Samoa,2020-03-26,2020-04-08,National,-13.759029,-172.104629
+San Marino,San Marino,2020-03-14,,National,43.9355907,12.4472806
+Saudi Arabia,Jeddah,2020-03-29,,City,21.485811,39.19250479999999
+Saudi Arabia,Mecca,2020-03-26,,City,21.3890824,39.8579118
+Saudi Arabia,Medina,2020-03-26,,City,24.5246542,39.5691841
+Saudi Arabia,Qatif,2020-03-09,,Area,26.5764917,49.998236
+Saudi Arabia,Riyadh,2020-03-26,,City,24.7135517,46.6752957
+Serbia,Serbia,2020-03-15,,National,44.016521,21.005859
+Singapore,Singapore,2020-04-07,2020-05-04,National,1.352083,103.819836
+South Africa,South Africa,2020-03-26,2020-04-15,National,-30.559482,22.937506
+Spain,Spain,2020-03-14,2020-04-25,National,40.46366700000001,-3.74922
+Thailand,Thailand,2020-03-25,2020-04-30,National,15.870032,100.992541
+Tunisia,Tunisia,2020-03-22,2020-04-19,National,33.886917,9.537499
+Ukraine,Ukraine,2020-03-17,2020-04-24,National,48.379433,31.1655799
+United Arab Emirates,United Arab Emirates,2020-03-26,2020-04-17,National,23.424076,53.847818
+United Kingdom,United Kingdom,2020-03-24,2020-04-13,National,55.378051,-3.435973
+United States,California,2020-03-19,,State,36.778261,-119.4179324
+United States,"Clark County, NV",2020-03-20,,County,36.0795613,-115.094045
+United States,Connecticut,2020-03-23,2020-04-22,State,41.6032207,-73.087749
+United States,Illinois,2020-03-21,2020-04-07,State,40.6331249,-89.3985283
+United States,"Kansas City, KS",2020-03-24,2020-04-19,City,39.11553139999999,-94.62678729999999
+United States,Massachusetts,2020-03-24,2020-04-07,State,42.4072107,-71.3824374
+United States,Michigan,2020-03-24,2020-04-13,State,44.3148443,-85.60236429999999
+United States,New York,2020-03-20,2020-04-29,State,40.7127753,-74.0059728
+United States,Oregon,2020-03-24,,State,43.8041334,-120.5542012
+United States,Wisconsin,2020-03-24,,State,43.7844397,-88.7878678
+Venezuela,Venezuela,2020-03-17,,National,6.42375,-66.58973
+Zimbabwe,Zimbabwe,2020-03-30,2020-04-19,National,-19.015438,29.154857
