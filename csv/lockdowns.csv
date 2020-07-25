@@ -1,126 +1,115 @@
 Country,Place,Start date,End date,Level,lat,lon
-Albania,Albania,2020-03-13,,National,41.153332,20.168331
-Algeria,Algiers,2020-03-23,2020-04-19,City,36.753768,3.0587561
-Algeria,Blida,2020-03-23,2020-04-19,City,36.4735715,2.8323153
-Argentina,Argentina,2020-03-19,2020-04-26,National,-38.416097,-63.61667199999999
-Armenia,Armenia,2020-03-24,2020-04-14,National,40.069099,45.038189
+Albania,Albania,2020-03-13,2020-06-01,National,41.153332,20.168331
+Algeria,Algeria,2020-03-23,2020-05-14,City,28.033886,1.659626
+Argentina,Argentina,2020-03-19,2020-06-28,National,-38.416097,-63.61667199999999
+Armenia,Armenia,2020-03-24,2020-05-04,National,40.069099,45.038189
 Australia,Australia,2020-03-23,,National,-25.274398,133.775136
 Austria,Austria,2020-03-16,2020-04-13,National,47.516231,14.550072
-Azerbaijan,Azerbaijan,2020-03-31,2020-04-20,National,40.143105,47.576927
-Bangladesh,Bangladesh,2020-03-26,2020-04-25,National,23.684994,90.356331
-Belgium,Belgium,2020-03-18,2020-04-19,National,50.503887,4.469936
-Bolivia,Bolivia,2020-03-22,2020-04-15,National,-16.290154,-63.58865299999999
+Azerbaijan,Azerbaijan,2020-03-31,2020-08-30,National,40.143105,47.576927
+Bangladesh,Bangladesh,2020-03-26,2020-05-16,National,23.684994,90.356331
+Barbados,Barbados,2020-03-28,2020-05-03,National,13.193887,-59.543198
+Belgium,Belgium,2020-03-18,2020-05-04 ,National,50.503887,4.469936
+Bermuda,Bermuda,2020-04-04,2020-05-02,National,32.3078,-64.7505
+Bolivia,Bolivia,2020-03-22,2020-07-31,National,-16.290154,-63.58865299999999
 Botswana,Botswana,2020-04-02,2020-04-30,National,-22.328474,24.684866
 Brazil,Santa Catarina,2020-03-17,2020-04-07,State,-27.2423392,-50.2188556
-Brazil,São Paulo,2020-03-24,2020-04-08,State,-23.5505199,-46.63330939999999
-Chile,Chile,2020-03-19,,National,-35.675147,-71.542969
-Colombia,Colombia,2020-03-25,2020-04-27,National,4.570868,-74.297333
+Brazil,São Paulo,2020-03-24,2020-05-10,State,-23.5505199,-46.63330939999999
+Colombia,Colombia,2020-03-25,2020-06-30,National,4.570868,-74.297333
 Republic of the Congo,Republic of the Congo,2020-03-31,2020-04-20,National,-0.228021,15.827659
 Costa Rica,Costa Rica,2020-03-23,,National,9.748916999999999,-83.753428
 Croatia,Croatia,2020-03-18,2020-04-19,National,45.1,15.2000001
-Cuba,Cuba,2020-03-23,2020-04-20,National,39.7350701,-104.9931524
 Czech Republic,Czech Republic,2020-03-16,2020-04-12,National,49.81749199999999,15.472962
-Denmark,Denmark,2020-03-11,2020-04-13,National,56.26392,9.501785
-Dominican Republic,Dominican Republic,2020-03-19,,National,18.735693,-70.162651
 Ecuador,Ecuador,2020-03-16,2020-03-31,National,-1.831239,-78.18340599999999
 El Salvador,El Salvador,2020-03-12,2020-04-02,National,13.794185,-88.89653
 Eritrea,Eritrea,2020-04-02,2020-04-23,National,15.179384,39.782334
 Fiji,Lautoka,2020-03-20,2020-04-07,City,-17.6169957,177.4504888
 Fiji,Suva,2020-04-03,2020-04-17,City,-18.1248086,178.4500789
-Finland,Uusimaa,2020-03-27,2020-04-16,Region,60.21872,25.271621
 France,France,2020-03-17,2020-05-11,National,46.227638,2.213749
-Georgia,Georgia,2020-03-31,2020-04-21,National,32.1656221,-82.9000751
-Germany,Bavaria,2020-03-20,2020-04-19,State,48.7904472,11.4978895
-Germany,"Freiburg, BW",2020-03-21,2020-04-03,City,47.9990077,7.842104299999999
+Georgia,Georgia,2020-03-31,2020-04-21,National,33.7541825,-84.390626
+Germany,Germany,2020-03-23[a],2020-04-20to 2020-05-10,National,51.165691,10.451526
 Ghana,Accra,2020-03-30,2020-04-12,Metropolitan Area,5.6037168,-0.1869644
 Ghana,Kumasi,2020-03-30,2020-04-12,Metropolitan Area,6.6666004,-1.6162709
-Greece,Greece,2020-03-23,2020-04-27,National,39.074208,21.824312
+Greece,Greece,2020-03-23,2020-05-04,National,39.074208,21.824312
 Guernsey,Guernsey,2020-03-25,,National,49.4481982,-2.58949
-Honduras,Central District,2020-03-16,,Municipality,14.1311004,-87.2618328
-Honduras,La Ceiba,2020-03-16,,Municipality,15.770288,-86.7919009
-Honduras,Choluteca,2020-03-16,,Municipality,13.3198572,-87.1622344
-Honduras,San Pedro Sula,2020-03-17,,Municipality,15.5038827,-88.01386190000001
-Honduras,,2020-03-20,2020-04-19,National,15.199999,-86.241905
+Honduras,Honduras,2020-03-20,2020-05-17,National,15.199999,-86.241905
 Hungary,Hungary,2020-03-28,2020-04-10,National,47.162494,19.5033041
-India,India,2020-03-25,2020-05-03,National,20.593684,78.96288
-Indonesia,Jakarta,2020-04-10,2020-04-23,Province,-6.2087634,106.845599
-Indonesia,Tegal,2020-03-26,2020-07-31,City,-6.879704100000001,109.1255917
+India,India,2020-03-25,2020-06-30,National,20.593684,78.96288
+Iran,Iran,2020-03-14,2020-04-20,National,32.427908,53.688046
 Iraq,Iraq,2020-03-22,2020-04-11,National,33.223191,43.679291
-Ireland,Ireland,2020-03-12,2020-05-05,National,53.1423672,-7.692053599999999
+Ireland,Ireland,2020-03-12,2020-05-18,National,53.1423672,-7.692053599999999
 Israel,Bnei Brak,2020-04-02,,City,32.084932,34.835226
-Italy,Italy,2020-03-09,2020-05-03,National,41.87194,12.56738
-Japan,Chiba,2020-04-07,2020-05-06,Prefecture,35.6074041,140.1065366
-Japan,Fukuoka,2020-04-07,2020-05-06,Prefecture,33.5901838,130.4016888
-Japan,Hyōgo,2020-04-07,2020-05-06,Prefecture,34.8579518,134.5453787
-Japan,Kanagawa,2020-04-07,2020-05-06,Prefecture,35.4913535,139.284143
-Japan,Osaka,2020-04-07,2020-05-06,Prefecture,34.6937249,135.5022535
-Japan,Saitama,2020-04-07,2020-05-06,Prefecture,35.8616486,139.6454782
-Japan,Tokyo,2020-04-07,2020-05-06,Prefecture,35.6761919,139.6503106
-Jordan,Jordan,2020-03-18,,National,40.740557,-73.98584269999999
-Kuwait,Kuwait,2020-03-14,2020-03-29,National,29.375859,47.9774052
+Italy,Italy,2020-03-09[b],2020-05-18,National,28.1376577,-80.6729943
+Jamaica,Saint Catherine,2020-04-15,2020-04-22,Parish,18.0364134,-77.0564464
+Jordan,Jordan,2020-03-18,2020-04-30,National,37.3603149,-96.3038876
+Kosovo,Kosovo,2020-03-14,2020-05-04 ,National,42.6026359,20.902977
+Kuwait,Kuwait,2020-03-14,2020-03-29,National,29.31166,47.481766
 Lebanon,Lebanon,2020-03-15,2020-03-28,National,33.854721,35.862285
 Liberia,Margibi,2020-03-23,2020-04-11,County,6.5151875,-10.3048897
 Liberia,Montserrado,2020-03-23,2020-04-11,County,6.5525815,-10.5296115
 Libya,Libya,2020-03-22,,National,26.3351,17.228331
-Lithuania,Lithuania,2020-03-16,2020-04-27,National,55.169438,23.881275
-Luxembourg,Luxembourg,2020-03-18,,National,49.61162100000001,6.1319346
-Madagascar,Antananarivo,2020-03-23,,City,-18.8791902,47.5079055
-Madagascar,Toamasina,2020-03-23,,City,-18.1442811,49.3957836
-Malaysia,Malaysia,2020-03-18,2020-04-28,National,4.210484,101.975766
+Lithuania,Lithuania,2020-03-16,2020-06-18,National,55.169438,23.881275
+Madagascar,Antananarivo,2020-03-23,2020-04-20,City,-18.8791902,47.5079055
+Madagascar,Toamasina,2020-03-23,2020-04-20,City,-18.1442811,49.3957836
+Malaysia,Malaysia,2020-03-18,2020-06-09,National,4.210484,101.975766
+Mexico,Mexico,2020-03-23,2020-06-01,National,19.4968732,-99.72326729999999
+Mongolia,Mongolia,2020-03-10,2020-03-16,National,46.862496,103.846656
 Montenegro,Tuzi,2020-03-24,,Municipality,42.36894239999999,19.3128909
-Morocco,Morocco,2020-03-19,2020-04-20,National,31.791702,-7.092619999999999
-Nepal,Nepal,2020-03-24,2020-04-15,National,28.394857,84.12400799999999
-Netherlands,Netherlands,2020-03-16,2020-04-28,National,52.132633,5.291265999999999
-New Zealand,New Zealand,2020-03-26,2020-05-10,National,-40.900557,174.885971
+Morocco,Morocco,2020-03-19,2020-06-10,National,31.791702,-7.092619999999999
+Namibia,Namibia,2020-03-27[c],2020-05-04,National,-22.95764,18.49041
+Nepal,Nepal,2020-03-24,2020-06-14,National,28.394857,84.12400799999999
+New Zealand,New Zealand,2020-03-26,2020-05-14,National,-40.900557,174.885971
 Nigeria,Abuja,2020-03-30,2020-04-12,City,9.0764785,7.398574
 Nigeria,Lagos,2020-03-30,2020-04-12,City,6.5243793,3.3792057
 Nigeria,Ogun,2020-03-30,2020-04-12,State,6.997974699999999,3.4737378
 Northern Cyprus,Northern Cyprus,2020-03-30,,National,35.2480359,33.6577243
-Norway,Norway,2020-03-12,2020-04-13,National,60.47202399999999,8.468945999999999
-Oman,Muscat,2020-04-10,2020-05-08,Governorate,23.5880307,58.3828717
-Oman,Jalan Bani Bu Ali,2020-04-16,,Province,22.0177073,59.3454978
-Pakistan,Pakistan,2020-03-24,2020-04-30,National,30.375321,69.34511599999999
-Panama,Panama,2020-03-25,2020-04-07,National,8.537981,-80.782127
+Oman,Muscat,2020-04-10,2020-05-29,Governorate,23.5880307,58.3828717
+Oman,Jalan Bani Bu Ali,2020-04-16,TBD,Province,22.0177073,59.3454978
+Pakistan,Pakistan,2020-03-24,2020-05-09,National,30.375321,69.34511599999999
+Panama,Panama,2020-03-25,,National,8.537981,-80.782127
 Papua New Guinea,Papua New Guinea,2020-03-24,2020-04-07,National,-6.314992999999999,143.95555
-Paraguay,Paraguay,2020-03-20,2020-04-12,National,-23.442503,-58.443832
-Peru,Peru,2020-03-16,2020-04-26,National,-9.189967,-75.015152
-Philippines,Cebu,2020-03-27,2020-04-30,Province,10.607936,123.8857747
-Philippines,Davao Region,2020-03-19,2020-04-30,Region,7.3041622,126.0893406
-Philippines,Luzon,2020-03-15,2020-04-30,Island group,16.5662318,121.2626366
-Philippines,Soccsksargen,2020-03-23,2020-04-30,Region,6.2706918,124.6856509
+Paraguay,Paraguay,2020-03-20,2020-05-03,National,-23.442503,-58.443832
+Peru,Peru,2020-03-16,2020-06-30,National,-9.189967,-75.015152
+Philippines,Cebu,2020-03-27,2020-05-15[d]to 2020-05-31[e],Province,10.607936,123.8857747
+Philippines,Davao Region,2020-03-19,2020-05-15,Region,7.3041622,126.0893406
+Philippines,Luzon,2020-03-15[f],2020-04-30[g]to 2020-05-15[h]to 2020-05-31[e],Island group,16.5662318,121.2626366
+Philippines,Soccsksargen,2020-03-23,2020-05-15,Region,6.2706918,124.6856509
 Poland,Poland,2020-03-13,2020-04-11,National,51.919438,19.145136
 Portugal,Portugal,2020-03-19,2020-04-02,National,39.39987199999999,-8.224454
 Qatar,Doha Industrial Area,2020-03-11,,Industrial park,25.2029096,51.43489870000001
 Romania,Romania,2020-03-25,2020-05-12,National,45.943161,24.96676
-Russia,Moscow,2020-03-30,2020-05-01,Metropolitan area,55.755826,37.6172999
+Russia,Moscow,2020-03-30,2020-05-12,Metropolitan area,55.755826,37.6172999
+Russia,,2020-03-28,2020-04-30,National,61.52401,105.318756
 Rwanda,Rwanda,2020-03-21,2020-04-19,National,-1.940278,29.873888
 Samoa,Samoa,2020-03-26,2020-04-08,National,-13.759029,-172.104629
-San Marino,San Marino,2020-03-14,,National,43.9355907,12.4472806
+San Marino,San Marino,2020-03-14,2020-05-05,National,43.9355907,12.4472806
 Saudi Arabia,Jeddah,2020-03-29,,City,21.485811,39.19250479999999
 Saudi Arabia,Mecca,2020-03-26,,City,21.3890824,39.8579118
 Saudi Arabia,Medina,2020-03-26,,City,24.5246542,39.5691841
 Saudi Arabia,Qatif,2020-03-09,,Area,26.5764917,49.998236
 Saudi Arabia,Riyadh,2020-03-26,,City,24.7135517,46.6752957
-Serbia,Serbia,2020-03-15,,National,44.016521,21.005859
-Singapore,Singapore,2020-04-07,2020-05-04,National,1.352083,103.819836
+Serbia,Serbia,2020-03-15,2020-04-21to 2020-05-04,National,44.016521,21.005859
+Singapore,Singapore,2020-04-07,2020-06-01,National,1.352083,103.819836
 South Africa,South Africa,2020-03-26,2020-04-30,National,-30.559482,22.937506
-Spain,Spain,2020-03-14,2020-04-25,National,40.46366700000001,-3.74922
-Switzerland,Switzerland,2020-03-17,,National,46.818188,8.227511999999999
-Thailand,Thailand,2020-03-25,2020-04-30,National,15.870032,100.992541
-Tunisia,Tunisia,2020-03-22,2020-04-19,National,33.886917,9.537499
-Turkey,Turkey,2020-04-11,2020-04-13,National,38.963745,35.243322
+Spain,Spain,2020-03-14,2020-05-09,National,40.46366700000001,-3.74922
+Sri Lanka,Sri Lanka,2020-03-18,2020-06-21,National,7.873053999999999,80.77179699999999
+Thailand,Thailand,2020-03-25,2020-05-31,National,15.870032,100.992541
+Trinidad and Tobago,Trinidad and Tobago,2020-03-17,2020-03-31,National,10.691803,-61.222503
+Tunisia,Tunisia,2020-03-22,2020-04-19,,33.886917,9.537499
+Turkey,Turkey,2020-04-23,2020-04-27,Only in 30 metropolitan cities and Zonguldak.,36.6796223,-94.6760395
 Ukraine,Ukraine,2020-03-17,2020-04-24,National,48.379433,31.1655799
 United Arab Emirates,United Arab Emirates,2020-03-26,2020-04-17,National,23.424076,53.847818
 United Kingdom,United Kingdom,2020-03-23,,National,55.378051,-3.435973
 United States,California,2020-03-19,,State,36.778261,-119.4179324
-United States,"Clark County, NV",2020-03-20,,County,36.0795613,-115.094045
+United States,Clark County in Nevada,2020-03-20,,County,36.0795613,-115.094045
 United States,Connecticut,2020-03-23,2020-04-22,State,41.6032207,-73.087749
-United States,Illinois,2020-03-21,2020-04-07,State,40.6331249,-89.3985283
-United States,"Kansas City, KS",2020-03-24,2020-04-19,City,39.11553139999999,-94.62678729999999
-United States,Massachusetts,2020-03-24,2020-04-07,State,42.4072107,-71.3824374
+United States,Illinois,2020-03-21,2020-05-30,State,40.6331249,-89.3985283
+United States,Kansas City in Kansas,2020-03-24,2020-04-19,City,39.11553139999999,-94.62678729999999
+United States,Massachusetts,2020-03-24,2020-05-04,State,42.4072107,-71.3824374
 United States,Michigan,2020-03-24,2020-04-13,State,44.3148443,-85.60236429999999
-United States,New York,2020-03-20,2020-05-15,State,40.7127753,-74.0059728
+United States,New York,2020-03-22,2020-06-13,State,40.7127753,-74.0059728
 United States,Oregon,2020-03-24,,State,43.8041334,-120.5542012
 United States,Wisconsin,2020-03-24,,State,43.7844397,-88.7878678
-Venezuela,Venezuela,2020-03-17,,National,6.42375,-66.58973
+Venezuela,Venezuela,2020-03-17,2020-05-13,National,6.42375,-66.58973
+Vietnam,Vietnam,2020-04-01,2020-04-22,National,14.058324,108.277199
 Zimbabwe,Zimbabwe,2020-03-30,2020-05-02,National,-19.015438,29.154857
+"Outbreak ongoing: Lockdown data as of July 25, 2020 Notes ^ Lockdown was started in Freiburg, Baden-Württemberg and Bavaria on 20 March 2020. Three days later, it was expanded to the whole of Germany ^ Lockdown was first started in Northern Italy on 8 March 2020, then expanded to the rest of Italy the following day ^ Lockdown was started in the regions of Erongo and Khomas but effectively enforced countrywide. On 14 April the lockdown was extended to 4 May and to all of Namibia. ^ Except in Cebu City only where it was extended to 16 days ^ a b Lockdown was extended to areas under high risk COVID-19 zones ^ Lockdown was started in Metro Manila, but expanded to the rest of Luzon two days later, 17 March 2020 ^ In most Luzon areas only, except Metro Manila and selected areas of Luzon are on high risk COVID-19 zones ^ Lockdown was extended to Metro Manila and remaining areas of Luzon ^ Applies for mandatory holidays and further measures in each Russian region","Outbreak ongoing: Lockdown data as of July 25, 2020 Notes ^ Lockdown was started in Freiburg, Baden-Württemberg and Bavaria on 20 March 2020. Three days later, it was expanded to the whole of Germany ^ Lockdown was first started in Northern Italy on 8 March 2020, then expanded to the rest of Italy the following day ^ Lockdown was started in the regions of Erongo and Khomas but effectively enforced countrywide. On 14 April the lockdown was extended to 4 May and to all of Namibia. ^ Except in Cebu City only where it was extended to 16 days ^ a b Lockdown was extended to areas under high risk COVID-19 zones ^ Lockdown was started in Metro Manila, but expanded to the rest of Luzon two days later, 17 March 2020 ^ In most Luzon areas only, except Metro Manila and selected areas of Luzon are on high risk COVID-19 zones ^ Lockdown was extended to Metro Manila and remaining areas of Luzon ^ Applies for mandatory holidays and further measures in each Russian region","Outbreak ongoing: Lockdown data as of July 25, 2020 Notes ^ Lockdown was started in Freiburg, Baden-Württemberg and Bavaria on 20 March 2020. Three days later, it was expanded to the whole of Germany ^ Lockdown was first started in Northern Italy on 8 March 2020, then expanded to the rest of Italy the following day ^ Lockdown was started in the regions of Erongo and Khomas but effectively enforced countrywide. On 14 April the lockdown was extended to 4 May and to all of Namibia. ^ Except in Cebu City only where it was extended to 16 days ^ a b Lockdown was extended to areas under high risk COVID-19 zones ^ Lockdown was started in Metro Manila, but expanded to the rest of Luzon two days later, 17 March 2020 ^ In most Luzon areas only, except Metro Manila and selected areas of Luzon are on high risk COVID-19 zones ^ Lockdown was extended to Metro Manila and remaining areas of Luzon ^ Applies for mandatory holidays and further measures in each Russian region","Outbreak ongoing: Lockdown data as of July 25, 2020 Notes ^ Lockdown was started in Freiburg, Baden-Württemberg and Bavaria on 20 March 2020. Three days later, it was expanded to the whole of Germany ^ Lockdown was first started in Northern Italy on 8 March 2020, then expanded to the rest of Italy the following day ^ Lockdown was started in the regions of Erongo and Khomas but effectively enforced countrywide. On 14 April the lockdown was extended to 4 May and to all of Namibia. ^ Except in Cebu City only where it was extended to 16 days ^ a b Lockdown was extended to areas under high risk COVID-19 zones ^ Lockdown was started in Metro Manila, but expanded to the rest of Luzon two days later, 17 March 2020 ^ In most Luzon areas only, except Metro Manila and selected areas of Luzon are on high risk COVID-19 zones ^ Lockdown was extended to Metro Manila and remaining areas of Luzon ^ Applies for mandatory holidays and further measures in each Russian region","Outbreak ongoing: Lockdown data as of July 25, 2020 Notes ^ Lockdown was started in Freiburg, Baden-Württemberg and Bavaria on 20 March 2020. Three days later, it was expanded to the whole of Germany[46] ^ Lockdown was first started in Northern Italy on 8 March 2020, then expanded to the rest of Italy the following day ^ Lockdown was started in the regions of Erongo and Khomas but effectively enforced countrywide. On 14 April the lockdown was extended to 4 May and to all of Namibia. ^ Except in Cebu City only where it was extended to 16 days ^ a b Lockdown was extended to areas under high risk COVID-19 zones ^ Lockdown was started in Metro Manila, but expanded to the rest of Luzon two days later, 17 March 2020 ^ In most Luzon areas only, except Metro Manila and selected areas of Luzon are on high risk COVID-19 zones ^ Lockdown was extended to Metro Manila and remaining areas of Luzon ^ Applies for mandatory holidays and further measures in each Russian region",0.0,0.0
